@@ -570,6 +570,11 @@
                     "isSigner": false
                 },
                 {
+                    "name": "honeyProgram",
+                    "isMut": false,
+                    "isSigner": false
+                },
+                {
                     "name": "tokenProgram",
                     "isMut": false,
                     "isSigner": false
@@ -1964,5 +1969,8 @@
             "name": "AccountNotEmptyError",
             "msg": "the collateral/loan account is not empty"
         }
-    ]
+    ],
+    "metadata": {
+        "address": "6ujVJiHnyqaTBHzwwfySzTDX5EPFgmXqnibuMp3Hun1w"
+    }
 }
